@@ -1,0 +1,14 @@
+Manifest-Version: 1.0
+Built-By: qinsz
+Build-Jdk: 1.8.0_40
+Specification-Title: Jasig CAS Client for Java - Distributed Proxy Sto
+ rage Support: Memcached
+Specification-Version: 3.2.0
+Specification-Vendor: Jasig
+Implementation-Title: Jasig CAS Client for Java - Distributed Proxy St
+ orage Support: Memcached
+Implementation-Version: 3.2.0
+Implementation-Vendor-Id: org.jasig.cas.client
+Implementation-Vendor: Jasig
+Created-By: Maven Integration for Eclipse
+
